@@ -9,6 +9,7 @@ body {
 .quem-somos {
     background-color: #191970;
     color: #fff;
+    
 
 }
 
@@ -20,4 +21,15 @@ body {
 .parceiros {
     background-color: #1F51FF;
     color: #fff;
+    
+}
+
+.servicos {
+    background-color: #0F52BA;
+    color: #fff;
+}
+
+.bg-footer {
+    background-color: #000;
+    color: #708090;
 }
